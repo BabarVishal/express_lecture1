@@ -1,0 +1,8 @@
+........ REST API - JSON
+
+get/user = Html document renders:
+
+get/api/users = List all The Json:
+
+get/api/users/1 = Get the user With Id 1:
+
